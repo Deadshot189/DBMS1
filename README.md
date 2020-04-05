@@ -1,2 +1,2 @@
 # DBMS1
-Project by "Zhandos"team
+Project by "DATA BASE"team
